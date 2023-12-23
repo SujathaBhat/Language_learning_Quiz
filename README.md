@@ -25,3 +25,17 @@ Learners:
     <li>Click choose file and select the file that can be found inside the onlinequiz folder</li>
     <li>Click go.</li>
 </ol>
+
+How to run:<br>
+Accessing admin accounts:<br>
+Open the browser and go to http://localhost/onlinequiz/admin.php
+
+Username: admin@admin.com
+Password: admin
+
+Accessing learner accounts
+
+Open the browser and go to http://localhost/onlinequiz/
+
+Register
+
